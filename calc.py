@@ -5,4 +5,4 @@ def sub(x,y):
 def mul(x,y):
     pass
 def div(x,y):
-    pass
+    return x/y
